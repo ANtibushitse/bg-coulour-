@@ -4,10 +4,10 @@
 
 
 		init:function(){    
-			app.recupvared(); 
+			app.recupvarcolor(); 
 
 		},
-		recupvared:function() {
+		recupvarcolor:function() {
 
 			var valred = $("#couleurR").val()
 			console.log(valred); 
